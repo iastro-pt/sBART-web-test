@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: "sBART ESPRESSO"
+description: "High-precision radial velocities with a
+              Bayesian template-matching approach"
+
+show_downloads: false
